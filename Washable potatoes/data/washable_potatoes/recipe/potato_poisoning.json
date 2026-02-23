@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","show_notification":true,"category":"misc","pattern":["PPP","PBP","PPP"],"key":{"P":{"item":"minecraft:potato"},"B":{"item":"minecraft:spider_eye"}},"result":{"id":"minecraft:poisonous_potato","count":8}}
