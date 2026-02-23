@@ -1,6 +1,6 @@
 {
     "pack": {
-        "description": "Creeprs ask if they can blow up",
+        "description": "Creepers ask if they can blow up (YES is a bit broken, step back if it doesnt work)",
         "pack_format": 48
     }
 }
